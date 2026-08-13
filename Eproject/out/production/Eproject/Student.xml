@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE student SYSTEM "student.dtd">
+
+<student id="StudentId1680352">
+
+    <name>Miracle John</name>
+    <department>Computer Science</department>
+    <category>Undergraduate</category>
+    <level>300</level>
+    <graduationYear>2027</graduationYear>
+    <generatedDateTime>2026-08-05T21:00:00</generatedDateTime>
+
+    <courses>
+        <course code="CSC301">
+            <title>Object Oriented Programming</title>
+            <score>85</score>
+        </course>
+
+        <course code="SCP 664">
+            <title>Database Management System</title>
+            <score>78</score>
+        </course>
+
+        <course code="SCP 303">
+            <title>XML and Web Technology</title>
+            <score>92</score>
+        </course>
+    </courses>
+</student>

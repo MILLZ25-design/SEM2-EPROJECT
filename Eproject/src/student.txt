@@ -1,0 +1,17 @@
+==========================================
+       STUDENT ACADEMIC RECORD
+==========================================
+Student ID       : StudentId1680352
+Name             : Miracle John
+Department       : Computer Science
+Category         : Undergraduate
+Level            : 300
+Graduation Year  : 2027
+Generated        : 2026-08-05T21:00:00
+------------------------------------------
+Courses
+------------------------------------------
+1. CSC301 - Object Oriented Programming - 85
+2. SCP 664 - Database Management System - 78
+3. SCP 303 - XML and Web Technology - 92
+==========================================
